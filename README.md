@@ -11,5 +11,6 @@ Librerias utilizadas:
 3. numpy as np
 
 Versiones:
-1. Python 3.6
+1. Python 3.8.5
+2. Cv2 4.2.0
 
