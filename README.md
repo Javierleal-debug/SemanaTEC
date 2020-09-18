@@ -10,3 +10,6 @@ Librerias utilizadas:
 2. ArgParse
 3. numpy as np
 
+Versiones:
+1. Python 3.6
+
