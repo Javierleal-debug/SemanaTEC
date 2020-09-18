@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 
+print('Hello world')
+
 # load the image and scale to 0..1
 image = cv2.imread('mishu.jpg', cv2.IMREAD_GRAYSCALE).astype(float) / 255.0
 
