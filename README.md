@@ -1,5 +1,5 @@
 # SemanaTEC
-
+# Herramientas computacionales
 Los branches dentro de este repositorio, muestran los pasos, técnicas y resultados de nuestro trabajo durante la Semana TEC de Septiembre del 2020: "Herramientas Computacionales, El Arte de la programación"
 
 Convulations.py : 
